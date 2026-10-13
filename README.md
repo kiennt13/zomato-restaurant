@@ -42,5 +42,6 @@
 - Votes                 Total votes of the restaurant
 
 5. Findings
-- TBD
-
+- The data set contains 9,551 restaurant records across 15 country codes. India accounts for over 90%, followed by the US with 4.5%. The remaining countries each contribute to less than 1% of the dataset.
+- Geographically, the restaurants are also concentrated in some cities. The biggest would New Dehli with over 5,473 locations, followed by Gurgaon, Noida, and Faridabad with 1,118, 1,080, 251 locations respectively.
+=> Overall findings will reflect primarily restaurants in India and New Dehli specifically. Further analysis on pricings, cuisines, and ratings will need to be break down to country-level and city-level.

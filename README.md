@@ -48,4 +48,11 @@
 => Overall findings will reflect primarily restaurants in India and New Dehli specifically. Further analysis on pricings, cuisines, and ratings will need to be break down to country-level and city-level.
 
 **Price Range and Restaurant Ratings**
-- A positive association was observed between proce range and aggregate ratings. The same general pattern appeared in India, suggesting the correlation is explanatory but not one-to-one.
+- A positive association was observed between proce range and aggregate ratings.
+=> The same general pattern appeared in India, suggesting the correlation is explanatory but not one-to-one.
+
+**Services and Restaurant Ratings**
+- Approximately 66.77% of restaurants offer neither table booking nor online delivery, while only 4.55% offer both services.
+- Restaurants offering table booking have higher mean ratings in the overall sample. However, the relationship between service offerings and ratings varies across price ranges.
+- Of the 2,451 restaurants offering online delivery, only 33 are marked as currently delivering. Their 33 rated records have a mean rating of 3.25, compared with 3.38 among rated restaurants offering online delivery but not marked as currently delivering.
+=> Restaurant ratings not consistent across price ranges suggests that service-rating associations may depend on restaurant characteristics and market segment. Further analysis controlling for geography and other relevant factors is needed before attributing the differences to service offerings themselves.
